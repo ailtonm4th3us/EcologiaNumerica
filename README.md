@@ -24,5 +24,6 @@ ________________________________________________________________
 ```
 
 > Resolução:
+> 
 > Cenário: uma mata toda fechada, coberta de diversas árvores, do canto mais esquerdo () até o mais direito. Do lado mais direito da mata, tem um planalto(Com pluviosidade média de 2000mm). As espécies de fungos que habitam a parte mais esquerda da mata, apresentam algumas divergências, essas espécies são conhecidas como: Amanita mortifera, Fuscoporia detrivora, Pycnoporus skywalker. Enquanto na parte mais alta da mata (Planalto), habitam as espécies: Amanita white e Pycnoporus skywalker.
 
