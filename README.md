@@ -3,7 +3,7 @@
 
 
 ## APRESENTAÇÕES
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:30px;" src="https://c.tenor.com/APz9XLzrM9YAAAAC/trust-the-force-yoda.gif">
+
 
 > Olá a todos, me chamo Ailton Matheus, sou estudande de ciências biológicas. Esse repositorio é destinado para armazenar as atividades referentes a disciplina Ecologia Numérica, ofertada pelo professor Felipe Pimentel Lopes Melo e Jose Roberto Botelho de Souza.
 
