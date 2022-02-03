@@ -26,5 +26,5 @@ Atividade - Desenho Experimental
 
 > Resolução:
 > 
-> Cenário: uma mata toda fechada, coberta de diversas árvores, do canto mais esquerdo () até o mais direito. Do lado mais direito da mata, tem um planalto(Com pluviosidade média de 2000mm). As espécies de fungos que habitam a parte mais esquerda da mata, apresentam algumas divergências, essas espécies são conhecidas como: Amanita mortifera, Fuscoporia detrivora, Pycnoporus skywalker. Enquanto na parte mais alta da mata (Planalto), habitam as espécies: Amanita white e Pycnoporus skywalker.
-
+> Cenário: uma mata toda fechada, coberta de diversas árvores, do canto mais esquerdo até o mais direito. Do lado mais direito da mata, tem um planalto(Com pluviosidade média de 900mm). As espécies de fungos que habitam a parte mais esquerda da mata, apresentam algumas divergências, essas espécies são conhecidas como: _Amanita mortifera_, _Fuscoporia detrivora_, _Pycnoporus skywalker_. Enquanto na parte mais alta da mata (Planalto), habitam as espécies: _Amanita white_ e _Pycnoporus skywalker_.
+> No entatanto, a espécie _P. skywalker_, na parte mais baixa do ambiente (Lado esquerdo), atua como parasita, enquanto na parte mais alta (planalto), a espécie atua na ciclagem da matéria orgânica. 
