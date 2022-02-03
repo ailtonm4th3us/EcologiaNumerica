@@ -23,16 +23,13 @@ ________________________________________________________________
 4° Tente demonstrar graficamente esses dados
 ```
 
-> Resolução:
-> 
-> Cenário: uma mata toda fechada, coberta de diversas árvores, do canto mais esquerdo até o mais direito. Do lado mais direito da mata, tem um planalto (com pluviosidade média de 900mm). As espécies de fungos que habitam a parte mais esquerda da mata, apresentam algumas divergências, essas espécies são conhecidas como: _Amanita mortifera_, _Amanita white_, _Fuscoporia detrivora_, _Pycnoporus skywalker_. Enquanto na parte mais alta da mata (Planalto), habitam as espécies: _Amanita peverrel_, _Pycnoporus palpatine_, _Auricularia sidious_, _Climacodon solo_, _Favus bolseiro_, _Ganoderma murphy_ e _Phlebia amidala_.
-> Aqui consideramos duas comunidades A e B, sendo, comunidade A: baixa, ficando mais a esquerda, enquanto a comunidade B: alta, fica mais a direita no planalto.
->
-> Riqueza da Comunidade A: 4. Abundância total da comunidade A: 129 (Figura 1a).
->  
-> Riqueza da Comunidade B: 7. Abundância total da comunidade B: 157 (Figura 1b).
->
-> O indice de Shannon para comunidade A, foi de 1,34, significando que essa comunidade, embora tenha uma menor riqueza, apresenta uma grande biodiversidade. Para a comunidade B, o indice de Shannon foi maior, cerca de 1,79, indicando que essa área apresenta uma grande biodiversidade. 
+Resolução:
+Cenário: uma mata toda fechada, coberta de diversas árvores, do canto mais esquerdo até o mais direito. Do lado mais direito da mata, tem um planalto (com pluviosidade média de 900mm). As espécies de fungos que habitam a parte mais esquerda da mata, apresentam algumas divergências, essas espécies são conhecidas como: _Amanita mortifera_, _Amanita white_, _Fuscoporia detrivora_, _Pycnoporus skywalker_. Enquanto na parte mais alta da mata (Planalto), habitam as espécies: _Amanita peverrel_, _Pycnoporus palpatine_, _Auricularia sidious_, _Climacodon solo_, _Favus bolseiro_, _Ganoderma murphy_ e _Phlebia amidala_.
+Aqui consideramos duas comunidades A e B, sendo, comunidade A: baixa, ficando mais a esquerda, enquanto a comunidade B: alta, fica mais a direita no planalto.
+
+Riqueza da Comunidade A: 4. Abundância total da comunidade A: 129 (Figura 1a). E o indice de Shannon para essa comunidade foi de 1,34, indicando que, embora essa comunidade tenha uma riqueza (S), menor do que a outra, ela apresenta uma grande biodiversidade. 
+
+Já a comunidade B, apresentou uma riqueza de 7. A sua abundância total da comunidade B: 157 (Figura 1b). O indice de Shannon para essa comunidade foi de 1,79, indicando que essa área apresenta uma grande biodiversidade. 
 
 <img align="left" alt="pic" height="400" width="485" src="https://i.imgur.com/IZni9tU.png">
 <img align="right" alt="pic" height="400" width="485" src="https://i.imgur.com/z6zlyVM.png">
