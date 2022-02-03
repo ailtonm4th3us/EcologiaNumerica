@@ -18,7 +18,7 @@ ________________________________________________________________
 ```
 Atividade - Desenho Experimental
    1° Imagine uma paisagem, invente uma counidade biológica e alguns gradientes ambientais para descrever essa 
-   paisagem e como a biodiversidade se distribui na mesma   (escreva essa parte)
+   paisagem e como a biodiversidade se distribui na mesma (escreva essa parte)
    2° Crie uma comunidade fictícia no R
    3° Faça descrições simples dessa comunidade, como: riqueza e abundânica
    4° Tente demonstrar graficamente esses dados
