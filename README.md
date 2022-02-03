@@ -2,7 +2,7 @@
 
 
 ### APRESENTAÇÕES
-<img align="center" alt="Rafa-pic" height="500" width="1100" style="border-radius:40px;" src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b761128bf2c363fccb8c2657ce046565eea51baa99096&rid=giphy.gif&ct=g">
+<img align="center" alt="Rafa-pic" height="400" width="1100" style="border-radius:40px;" src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b761128bf2c363fccb8c2657ce046565eea51baa99096&rid=giphy.gif&ct=g">
 
 
 
