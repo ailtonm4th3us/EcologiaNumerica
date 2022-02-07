@@ -31,7 +31,7 @@ Riqueza da Comunidade A: 4. Abundância total da comunidade A: 129 (Figura 1a). 
 
 Já a comunidade B, apresentou uma riqueza de 7. A sua abundância total da comunidade B: 157 (Figura 1b). O indice de Shannon para essa comunidade foi de 1,79, indicando que essa área apresenta uma grande biodiversidade. 
 
-<img align="left" alt="pic" height="400" width="485" src="https://i.imgur.com/IZni9tU.png">
-<img align="right" alt="pic" height="400" width="485" src="https://i.imgur.com/z6zlyVM.png">
+<img align="left" alt="pic" height="200" width="400" src="https://i.imgur.com/IZni9tU.png">
+<img align="right" alt="pic" height="200" width="400" src="https://i.imgur.com/z6zlyVM.png">
 Figura 1a, b. Gráfico coluna com as espécies e abundância das espécies (para uma melhor vizualisação das imagens, clique sobre elas).
 
